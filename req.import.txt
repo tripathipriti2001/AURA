@@ -1,0 +1,14 @@
+import SpeechRecognition
+import pyttsx3
+import playsound
+import Pillow
+import pyscreenshot
+import pynput
+import psutil
+import wikipedia
+import beautifulsoup4
+import youtube_search
+import wmi
+import geopy
+import googletrans
+import normalchat
